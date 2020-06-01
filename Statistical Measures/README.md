@@ -24,7 +24,7 @@ where we can easily calculate the results by hand. Besides the measures, we are 
 2. Figure 1 shows a box-and-whisker plot of 𝑋. We now want to analyze which information
 we can retrieve from this plot. The figure is annotated with labels corresponding to a
 value of a statistical measure.
-![](../img/sm/figure1.png)
+![](./img/figure1.png)
 	
 	a) Name what the labels 1, 2, 3 and 6 shows us:
    
